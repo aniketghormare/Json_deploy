@@ -1,0 +1,150 @@
+{
+    
+        "posts": [
+          {
+            "id": 1,
+            "company": "Ellette",
+            "postedAt": "2021-03-30",
+            "city": "Gangtok",
+            "location": "American Samoa",
+            "role": "Frontend",
+            "level": "Junior",
+            "contract": "Full Time",
+            "position": " Backend Developer",
+            "language": "Java"
+          },
+          {
+            "id": 2,
+            "company": "Jinny",
+            "postedAt": "2021-09-09",
+            "city": "Ludhiana",
+            "location": "Belgium",
+            "role": "FullStack",
+            "level": "Junior",
+            "contract": "Full Time",
+            "position": "Junior Frontend Developer",
+            "language": "Java"
+          },
+          {
+            "company": "Masai",
+            "postedAt": "2023-06-21",
+            "city": "Bangluru",
+            "location": "Karnataka",
+            "role": "Frontend",
+            "level": "Frontend",
+            "contract": "full time",
+            "position": "FSD",
+            "language": "Javascript",
+            "id": 3
+          },
+          {
+            "company": "Jindal",
+            "postedAt": "2023-06-05",
+            "city": "Mumbai",
+            "location": "Maharastra",
+            "role": "FullStack ",
+            "level": "Frontend",
+            "contract": "full time",
+            "position": "Junior Backend Developer",
+            "language": " C++",
+            "id": 4
+          },
+          {
+            "company": "FunctionUp",
+            "postedAt": "2023-06-12",
+            "city": "Chhindwara",
+            "location": "Madhya Pradesh",
+            "role": "FullStack ",
+            "level": "Frontend",
+            "contract": "full time",
+            "position": "Backend Developer",
+            "language": "C",
+            "id": 5
+          },
+          {
+            "company": "Tata",
+            "postedAt": "2023-06-21",
+            "city": "Sausar",
+            "location": "MP",
+            "role": "Backend",
+            "level": "Frontend",
+            "contract": "part time",
+            "position": "Junior Frontend Developer",
+            "language": " C++",
+            "id": 6
+          },
+          {
+            "company": "",
+            "postedAt": "",
+            "city": "",
+            "location": "",
+            "role": "",
+            "level": "",
+            "contract": "",
+            "position": "",
+            "language": "",
+            "id": 7
+          },
+          {
+            "company": "INFOSYS",
+            "postedAt": "2023-06-17",
+            "city": "INDORE",
+            "location": "Maharastra",
+            "role": "Frontend",
+            "level": "Backend",
+            "contract": "full time",
+            "position": "Junior Backend Developer",
+            "language": "Java",
+            "id": 8
+          },
+          {
+            "company": "Wipro",
+            "postedAt": "2023-06-20",
+            "city": "Delhi",
+            "location": "Odisa",
+            "role": "Frontend",
+            "level": "Frontend",
+            "contract": "full time",
+            "position": "Backend Developer",
+            "language": "C",
+            "id": 9
+          },
+          {
+            "company": "Reliance",
+            "postedAt": "2023-06-13",
+            "city": "Bhopal",
+            "location": "Madhya Pradesh",
+            "role": "Backend",
+            "level": "Backend",
+            "contract": "full time",
+            "position": "Backend Developer",
+            "language": "Javascript",
+            "id": 10
+          },
+          {
+            "company": "Adani",
+            "postedAt": "2023-06-11",
+            "city": "Surat",
+            "location": "gujrat",
+            "role": "Frontend",
+            "level": "Frontend",
+            "contract": "part time",
+            "position": "FSD",
+            "language": "Javascript",
+            "id": 11
+          },
+          {
+            "company": "Dell",
+            "postedAt": "2023-06-21",
+            "city": "Mumbai",
+            "location": "Maharastra",
+            "role": "Frontend",
+            "level": "Frontend",
+            "contract": "full time",
+            "position": "Junior Frontend Developer",
+            "language": "Javascript",
+            "id": 12
+          }
+        ]
+      
+}
